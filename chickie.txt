@@ -1,1 +1,7 @@
 Chickie is a beautiful little bird.
+
+
+GIT Commit tool
+Commit Menu...
+Stage To Commit
+Commit with message
